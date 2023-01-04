@@ -1,0 +1,138 @@
+[
+    {
+    "id_prov": "11",
+    "nm_prov": "ACEH"
+    },
+    {
+    "id_prov": "12",
+    "nm_prov": "SUMATERA UTARA"
+    },
+    {
+    "id_prov": "13",
+    "nm_prov": "SUMATERA BARAT"
+    },
+    {
+    "id_prov": "14",
+    "nm_prov": "RIAU"
+    },
+    {
+    "id_prov": "15",
+    "nm_prov": "JAMBI"
+    },
+    {
+    "id_prov": "16",
+    "nm_prov": "SUMATERA SELATAN"
+    },
+    {
+    "id_prov": "17",
+    "nm_prov": "BENGKULU"
+    },
+    {
+    "id_prov": "18",
+    "nm_prov": "LAMPUNG"
+    },
+    {
+    "id_prov": "19",
+    "nm_prov": "KEPULAUAN  BANGKA BELITUNG"
+    },
+    {
+    "id_prov": "21",
+    "nm_prov": "KEPULAUAN  RIAU"
+    },
+    {
+    "id_prov": "31",
+    "nm_prov": "DKI JAKARTA"
+    },
+    {
+    "id_prov": "32",
+    "nm_prov": "JAWA BARAT"
+    },
+    {
+    "id_prov": "33",
+    "nm_prov": "JAWA TENGAH"
+    },
+    {
+    "id_prov": "34",
+    "nm_prov": "DAERAH ISTIMEWA  YOGYAKARTA"
+    },
+    {
+    "id_prov": "35",
+    "nm_prov": "JAWA TIMUR"
+    },
+    {
+    "id_prov": "36",
+    "nm_prov": "BANTEN"
+    },
+    {
+    "id_prov": "51",
+    "nm_prov": "BALI"
+    },
+    {
+    "id_prov": "52",
+    "nm_prov": "NUSA TENGGARA  BARAT"
+    },
+    {
+    "id_prov": "53",
+    "nm_prov": "NUSA TENGGARA  TIMUR"
+    },
+    {
+    "id_prov": "61",
+    "nm_prov": "KALIMANTAN BARAT"
+    },
+    {
+    "id_prov": "62",
+    "nm_prov": "KALIMANTAN TENGAH"
+    },
+    {
+    "id_prov": "63",
+    "nm_prov": "KALIMANTAN SELATAN"
+    },
+    {
+    "id_prov": "64",
+    "nm_prov": "KALIMANTAN TIMUR"
+    },
+    {
+    "id_prov": "65",
+    "nm_prov": "KALIMANTAN UTARA"
+    },
+    {
+    "id_prov": "71",
+    "nm_prov": "SULAWESI  UTARA"
+    },
+    {
+    "id_prov": "72",
+    "nm_prov": "SULAWESI  TENGAH"
+    },
+    {
+    "id_prov": "73",
+    "nm_prov": "SULAWESI  SELATAN"
+    },
+    {
+    "id_prov": "74",
+    "nm_prov": "SULAWESI TENGGARA"
+    },
+    {
+    "id_prov": "75",
+    "nm_prov": "GORONTALO"
+    },
+    {
+    "id_prov": "76",
+    "nm_prov": "SULAWESI  BARAT"
+    },
+    {
+    "id_prov": "81",
+    "nm_prov": "MALUKU"
+    },
+    {
+    "id_prov": "82",
+    "nm_prov": "MALUKU UTARA"
+    },
+    {
+    "id_prov": "91",
+    "nm_prov": "PAPUA"
+    },
+    {
+    "id_prov": "92",
+    "nm_prov": "PAPUA BARAT"
+    }
+    ]
